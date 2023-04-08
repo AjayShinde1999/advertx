@@ -8,7 +8,7 @@
 <title>Create Lead</title>
 
 <style>
-    /* Apply CSS to the form element */
+    
     form {
         max-width: 500px;
         margin: auto;
